@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Writing Quiz Band 4.5 - 5.0",
+  "description": "Trắc nghiệm tiếng Anh IELTS band 4.5 - 5.0 Writing dành cho học sinh với giao diện tiếng Việt thân thiện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
